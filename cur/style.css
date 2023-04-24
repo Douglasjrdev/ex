@@ -1,0 +1,22 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    margin: 0px 50px;
+}
+#principal{
+    text-align: center;
+    background-color: pink;
+    color: orangered;
+    font-size: 3em;
+}
+.info{
+    background-color: rgb(141, 120, 88);
+    color: red;
+    border-bottom: 3px solid;
+    margin-bottom: 25px;
+    font-size: 3em;
+}
+p{
+    padding-bottom: 60px;
+}
